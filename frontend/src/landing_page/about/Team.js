@@ -129,7 +129,7 @@ export  function Team() {
         <div className="text-center">
           <img
             className="rounded-circle img-fluid"
-            src="media/images/S"//Add your photo
+            src="media/images/mypic2-photopng.png"
             alt="img"
             width="300"
             height="300"
