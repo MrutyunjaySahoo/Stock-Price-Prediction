@@ -12,7 +12,7 @@ function ProductPage() {
         imageURL="media/images/products-kite.png"
         productName="Kite"
         ProductDescription="Our ultra-fast flagship trading platform with streaming market data, advanced charts, an elegant UI, and more. Enjoy the Kite experience seamlessly on your Android and iOS devices."
-        tryDemo="https://kite.demo.url"
+        tryDemo="https://stock-price-prediction-aafn.onrender.com"
         learnMore="https://zerodha.com/products/kite"
         googlePlay="https://play.google.com/store/apps/details?id=kite"
         appStore="https://apps.apple.com/us/app/kite/id123456789"
